@@ -1,8 +1,3 @@
-Here’s a clean and professional `README.md` for your **Customer Churn Prediction** GitHub repository. It's tailored for your bank-related dataset and a beginner-level ML project:
-
----
-
-```markdown
 # 🏦 Customer Churn Prediction (Bank Dataset)
 
 This repository contains a basic machine learning project that predicts whether a customer will leave a bank (i.e., churn) based on various customer attributes. This project demonstrates a simple end-to-end supervised learning pipeline using Python.
@@ -99,11 +94,5 @@ customer-churn-prediction/
 For any queries or feedback, feel free to reach out:
 
 **Rishabh Upadhyay**  
-📧 [YourEmail@example.com]  
-🔗 [LinkedIn Profile] *(optional)*
+📧 [Rishabhupadhyay428@gmail.com]  
 
----
-
-```
-
-Let me know if you'd like to include visuals, a demo link (if deployed), or a badge for model accuracy or tools used.
